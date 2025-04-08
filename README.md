@@ -78,7 +78,7 @@ A professional Power BI dashboard that delivers deep insights into hospital admi
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `healthcare_dashboard.pbix` using Power BI Desktop.
+2. Open `Healthcare_dashboard.pbix` using Power BI Desktop.
 3. If needed, update the data source path in Power Query Editor.
 4. Explore interactive filters for condition, gender, insurance type, and time period.
 
@@ -86,8 +86,9 @@ A professional Power BI dashboard that delivers deep insights into hospital admi
 
 ## 👨‍💻 Author
 
-**[Your Name]** – Freelance Power BI Developer  
-🔗 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile)
+Name: [Rajesh M]
+Email: [rajesh.mr1308@gmail.com]
+LinkedIn: [www.linkedin.com/in/rajesh-m-92b182341]
 
 ---
 
