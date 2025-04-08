@@ -84,12 +84,13 @@ A professional Power BI dashboard that delivers deep insights into hospital admi
 
 ---
 
-## 👨‍💻 Author
+## 📩 Contact
 
-Name: [Rajesh M]
-Email: [rajesh.mr1308@gmail.com]
-LinkedIn: [www.linkedin.com/in/rajesh-m-92b182341]
+**Name:** [Rajesh M]  
+**Email:** [rajesh.mr1308@gmail.com]  
+**LinkedIn:** [www.linkedin.com/in/rajesh-m-92b182341]
+**GitHub:** [https://github.com/Rajesh-DataAnalyst]
 
----
 
-⭐ *If you found this helpful, please give it a star!*
+⭐ If you found this helpful, please give it a star!
+
