@@ -63,6 +63,14 @@ A professional Power BI dashboard that delivers deep insights into hospital admi
 
 <img width="564" alt="financials_dashboard" src="https://github.com/user-attachments/assets/bab23d59-87ac-47c0-b0aa-d7c6baa64047" />
 
+## 🎥 Dashboard Walkthrough Video
+
+Watch a full walkthrough of the dashboard here:
+
+
+https://github.com/user-attachments/assets/236edae8-532f-4586-8d76-9d98068ec9c2
+
+
 
 ---
 
