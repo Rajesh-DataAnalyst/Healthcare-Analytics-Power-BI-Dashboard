@@ -43,7 +43,8 @@ A professional Power BI dashboard that delivers deep insights into hospital admi
 
 ### 🏥 Admissions Overview
 
-<img width="563" alt="admissions_dashboard" src="https://github.com/user-attachments/assets/aa0053cf-2d12-413d-89b7-09b9666c210b" />
+<img width="566" alt="Admissions_png" src="https://github.com/user-attachments/assets/04f320cc-6b2d-4cba-8dea-3914efc03f24" />
+
 
 
 ---
