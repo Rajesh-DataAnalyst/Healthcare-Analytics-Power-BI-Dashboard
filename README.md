@@ -36,10 +36,6 @@ A professional Power BI dashboard that delivers deep insights into hospital admi
 - Insurance claims form 65% of billing, followed by self-pay and government schemes.
 - High revenue generated from cardiac, orthopedic, and oncology departments.
 
----
-
-## 🧰 Project Structure
-
 
 ---
 
